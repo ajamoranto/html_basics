@@ -76,4 +76,10 @@ a {
 .card li {
   list-style: none;
   text-align: center;
+  display: inline-block;
+}
+
+#rest {
+  width:auto;
+  display: inline-block;
 }
